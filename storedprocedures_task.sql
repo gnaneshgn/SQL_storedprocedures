@@ -11,7 +11,7 @@ ORDER BY CountryName;
 Select * FROM tblEvent 
 WHERE CountryId=1;
 
-SELECT 
+
 
 --Create a stored procedure called uspCountriesAsia to list out all the countries with ContinentId equal to 1, in alphabetical order
 
